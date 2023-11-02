@@ -1,4 +1,4 @@
-pip==21.3
+pip==23.3
 prodigy==1.11.5
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.1.0/en_core_web_sm-3.1.0.tar.gz#egg=en_core_web_sm
 spacy-transformers==1.0.6
